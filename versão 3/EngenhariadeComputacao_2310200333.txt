@@ -1,0 +1,55 @@
+Engenharia de Computacao
+2310200333
+Disciplina;Elementos da Matematica;1;60;6,60;2022/1;true
+Disciplina;Quimica Geral Basica;1;60;8,31;2021/2;true
+Disciplina;Elementos de Fisica;1;30;8,37;2022/1;true
+Disciplina;Fundamentos de Hardware e Software;1;90;7,20;2022/2;true
+Disciplina;Introducao a Engenharia de Computacao;1;60;6,90;2023/1;true
+Disciplina;Gestao de Projetos I;1;30;7,70;2023/1;true
+Disciplina;Calculo A;2;60;6,60;2022/1;true
+Disciplina;Algebra Linear e Geometria Analitica;2;60;7,45;2023/1;true
+Disciplina;Producao Academico Cientifica;2;30;10,00;2022/2;true
+Disciplina;Algoritmos e Tecnicas de Programacao;2;90;7,50;2023/2;true
+Disciplina;Projeto Digital I;2;90;6,00;2022/2;true
+Disciplina;Projeto Integrador I;2;30;8,20;2023/2;true
+Disciplina;Calculo B;3;60;10,00;2023/2;true
+Disciplina;Estatistica Basica;3;30;7,40;2023/2;true
+Disciplina;Fundamentos de Fisica A;3;75;8,37;2022/2;true
+Disciplina;Algoritmos e Estruturas de Dados;3;90;6,20;2023/2;true
+Disciplina;Arquitetura e Organizacao de Computadores;3;90;7,10;2024/1;true
+Disciplina;Projeto Integrador II;3;60;8,00;2024/1;true
+Disciplina;Equacoes Diferenciais Ordinarias;4;60;10,00;2024/2;true
+Disciplina;Probabilidade;4;30;7,40;2023/2;true
+Disciplina;Fundamentos de Fisica B;4;75;6,00;2024/2;true
+Disciplina;Algoritmos e Classificacao de Dados;4;75;7,00;2024/2;true
+Disciplina;Projeto Digital II;4;90;8,17;2024/2;true
+Disciplina;Projeto Integrador III;4;60;10,00;2024/2;true
+Disciplina;Circuitos Eletricos I;5;60;;;false
+Disciplina;Mecanica Geral;5;60;;;false
+Disciplina;Teoria da Computacao;5;60;;;false
+Disciplina;Sistemas Operacionais;5;90;;;false
+Disciplina;Engenharia de Software;5;75;;;false
+Disciplina;Projeto Integrador IV;5;60;;;false
+Disciplina;Eletricidade Aplicada;6;60;;;false
+Disciplina;Ciencias do Ambiente;6;30;8,80;2024/1;true
+Disciplina;Problemas e Algoritmos;6;75;;;false
+Disciplina;Sistemas Embarcados;6;90;;;false
+Disciplina;Fundamentos e Avaliacao de Redes de Computadores;6;90;;;false
+Disciplina;Projeto Integrador V;6;60;;;false
+Disciplina;Fenomenos de Transporte A;7;45;;;false
+Disciplina;Introducao a Economia para Engenheiros;7;30;;;false
+Disciplina;Praticas Extensionistas I;7;120;;;false
+Disciplina;Projeto de Pesquisa em Engenharia de Computacao;7;45;;;false
+Disciplina;Ciencia de Dados;7;60;;;false
+Disciplina;Inteligencia Artificial;7;60;;;false
+Disciplina;CCCG / Seguranca da Informacao e Ciberseguranca;7;60;7,80;2024/1;true
+Disciplina;Fundamentos de Ciencia dos Materiais;8;30;9,00;2023/2;true
+Disciplina;Praticas Extensionistas II;8;180;;;false
+Disciplina;Projeto Final de Curso I;8;90;;;false
+Disciplina;CCCG / Topicos Especiais em Computacao;8;60;8,50;2024/1;true
+Disciplina;Empreendedorismo e Inovacao;9;60;9,00;2023/2;true
+Disciplina;Projeto Final de Curso II;9;90;;;false
+Disciplina;CCCG;9;60;0;0;false
+Disciplina;Estagio Curricular Supervisionado;10;180;;;false
+Atividade Extra;Unipampa Cidada;9;60;0;;false
+Atividade Extra;ACG;10;75;0;0;false
