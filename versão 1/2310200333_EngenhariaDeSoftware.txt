@@ -1,0 +1,7 @@
+Engenharia de Software;101
+Componentes Curriculares Obrigatorios de Graduacao;Integralizacao;3285;3285
+Projeto Final;TCC;180;180
+Estagio Curricular Obrigatorio;Estagio;180;180
+Componentes Curriculares Complementares de Graduacao;Integralizacao;180;180
+Atividades Complementares de Graduacao;Integralizacao;75;75
+Atividades Curriculares de Extensao;Integralizacao;360;360
