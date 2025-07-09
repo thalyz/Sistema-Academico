@@ -1,0 +1,74 @@
+Engenharia de Producao
+Isadora Sides Camargo
+2310200334
+isadoracamargo.aluno@unipampa.edu.br
+210
+Disciplina;Elementos de Matematica;1;60;9.00;2024/2;true:
+Disciplina;Introducao ao Pensamento Computacional e a Programacao;1;60;8.50;2023/2;true:
+Disciplina;Quimica Geral Basica;1;60;9.56;2023/2;true:
+Disciplina;Introducao a Engenharia de Producao;1;30;10.00;2024/1;true:
+Disciplina;Metodo Cientifico e Tecnologico;1;30;9.00;2024/2;true:
+Disciplina;Empreendedorismo e Inovacao;1;60;8.80;2024/1;true:
+Disciplina;Calculo A;2;60;9.50;2023/2;true:1
+Disciplina;Elementos de Fisica;2;30;8.60;2024/2;true:
+Disciplina;Fundamentos de Ciencias dos Materiais;2;30;8.80;2023/2;true:
+Disciplina;Algebra Linear e Geometria Analitica;2;60;8.12;2023/2;true:
+Disciplina;Gestao de Projetos I;2;30;8.40;2024/2;true:
+Disciplina;Introducao a Administracao;2;30;9.50;2023/2;true:
+Disciplina;Sistemas de Producao e Operacoes;2;60;9.00;2023/2;true:4
+Disciplina;Calculo B;3;60;7.10;2023/2;true:7
+Disciplina;Gestao Financeira e Contabil;3;30;9.00;2024/2;true:
+Disciplina;Fundamentos de Fisica A;3;75;8.60;2023/2;true:7;8
+Disciplina;Sistemas de Informacao;3;30;9.50;2025/1;true:
+Disciplina;Processos de Fabricacao I;3;60;8.50;2025/1;true:
+Disciplina;Gestao Ambiental e Sustentabilidade;3;60;8.20;2024/1;true:
+Disciplina;Mecanica Geral;4;60;6.87;2024/2;true:10;16
+Disciplina;Fundamentos de Fisica B;4;75;8.81;2023/2;true:14;16
+Disciplina;Ergonomia I;4;60;9.10;2024/2;true:
+Disciplina;Processos de Fabricacao II;4;60;0.00;;false:18
+Disciplina;Engenharia Economica;4;30;9.30;2024/2;true:15
+Disciplina;Custos da Producao;4;30;9.50;2025/1;true:
+Disciplina;Atividade Extensionista I;5;75;9.00;2025/1;true:
+Disciplina;Eletricidade Aplicada;5;60;6.00;2025/1;true:21
+Disciplina;Calculo Numerico;5;60;8.60;2024/2;true:14
+Disciplina;Pesquisa Operacional I;5;60;0.00;;false:10
+Disciplina;Processos de Fabricacao III;5;60;0.00;;false:23
+Disciplina;Atividade Extensionista II;6;75;0.00;;false:26
+Disciplina;Desenho Tecnico I;6;60;7.40;2023/2;true:
+Disciplina;Fenomenos de Transporte C;6;45;0.00;;false:
+Disciplina;Probabilidade;6;30;7.80;2023/2;true:
+Disciplina;Estrategia Organizacional;6;30;9.50;2025/1;true:
+Disciplina;Planejamento, Programacao e Controle da Producao;6;60;0.00;;false:13
+Disciplina;Atividade Extensionista III;7;75;0.00;;false:31
+Disciplina;Desenho Tecnico II;7;60;7.40;2023/2;true:32
+Disciplina;Resistencia dos Materiais;7;60;0.00;;false:20
+Disciplina;Logistica I;7;30;0.00;;false:36
+Disciplina;Planejamento e Controle de Qualidade;7;60;0.00;;false:34
+Disciplina;Introducao a Economia;7;30;9.25;2024/1;true:
+Disciplina;Atividade Extensionista IV;8;75;0.00;;false:37
+Disciplina;Engenharia de Manutencao;8;60;0.00;;false:36
+Disciplina;Logistica II;8;60;0.00;;false:40
+Disciplina;Engenharia do Produto I;8;60;8.20;2024/2;true:11;38
+Disciplina;Projeto de Experimentos;8;30;0.00;;false:41
+Disciplina;Gestao de Servicos;8;30;0.00;;false:
+Disciplina;Projeto de Trabalho de Conclusao de Curso;9;120;0.00;;false:
+Disciplina;Projeto de Fabrica;9;30;0.00;;false:36
+Disciplina;Modelagem e Simulacao Computacional;9;60;0.00;;false:13;47
+Disciplina;Engenharia do Produto II;9;60;0.00;;false:46
+Disciplina;Seguranca Industrial I;9;60;9.80;2024/2;true:
+Disciplina;Lean Seis Sigma;9;30;0.00;;false:13;47
+Disciplina;Automacao Industrial;9;60;0.00;;false:
+Disciplina;Trabalho de Conclusao de Curso;10;120;0.00;;false:49
+Disciplina;Estagio Supervisionado;10;180;0.00;;false:49
+Atividade Extra;Unipampa Cidada;10;120;0;;false:
+Atividade Extra;Atividade Complementar de Graduacao;10;75;0;;false:
+CCCG;Controle da Poluicao Atmosferica;5;30;30;9,00;2023/2;true:
+CCCG;Engenharia Economica I;6;30;30;9,00;2023/2;true:
+CCCG;Engenharia Economica II;7;30;30;9,30;2024/1;true:
+CCCG;Fisica II;8;60;60;8,20;2023/2;true:
+CCCG;Introducao a Engenharia de Energia;9;30;30;9,70;2023/2;true:
+CCCG;Principios de Conversao de Energia;10;60;60;9,18;2023/2;true:
+CCCG;Laboratorio de Fisica I;10;30;30;9,00;2023/2;true:
+CCCG;Laboratorio de Fisica II;10;30;30;8,00;2023/2;true:
+CCCG;Laboratorio de Fisica III;10;30;30;8,78;2023/2;true:
+###
