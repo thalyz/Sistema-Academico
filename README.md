@@ -1,5 +1,7 @@
 # Sistema de Gerenciamento de Curso
 
+Por: Bianca de Oliveira Durgante, Davi Lopes Lemos e Thálys Lemos Correa.
+
 Este software permite ao discente configurar, gerenciar e acompanhar a integralização de seu curso de forma organizada e personalizada.
 
 ## Como Usar
