@@ -7,8 +7,8 @@ import javax.swing.*;
 public class MenuInicial extends JFrame {
 
     public MenuInicial(JFrame parent) {
-        setTitle("Início");
-        setSize(500, 100);
+        setTitle("Bem-vindo à Plataforma de Registros Estudantis de Notas, Disciplinas e Aprovações");
+        setSize(700, 100);
         setLocationRelativeTo(parent);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setLayout(new BorderLayout());
