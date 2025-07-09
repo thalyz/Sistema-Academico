@@ -84,15 +84,14 @@ public class Grafico extends JPanel {
 
         g2.drawString("% Horas", margemEsq - 45, 20);
 
-        int passo = 60;
-        int valor = 0;
-        while (valor < maxHoras + passo) {
-            int y = alturaPainel - margemInf - (int) (alturaUtil * ((double) valor / maxHoras));
-            g2.drawLine(margemEsq - 15, y, margemEsq - 10, y);
-            g2.drawString(valor + "h", 5, y + 5);
-            valor += passo;
-        }
+        int numDivisoes = 10; 
+        for (i = 0; i <= numDivisoes; i++) {
+            int valor = maxHoras * i / numDivisoes;
+            int y = alturaPainel - margemInf - (int) (alturaUtil * ((double) i / numDivisoes));
 
+            g2.drawLine(margemEsq - 15, y, margemEsq - 10, y); 
+            g2.drawString(valor + "h", 5, y + 5); 
+        }
     }
     public void resetarGrafico() {
         this.valoresPorSemestre = null;
